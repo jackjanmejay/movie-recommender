@@ -1,0 +1,14 @@
+<< EOF
+services:
+  - type: web
+    name: movie-recommender
+    runtime: python
+    repo: https://github.com/YOUR_USERNAME/movie-recommender
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    buildCommand: pip install -r requirements.txt
+    startCommand: python src/app.py
+    autoDeploy: true
+EOF

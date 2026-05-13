@@ -1,0 +1,32 @@
+<< EOF
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Data files (too large for GitHub)
+data/*.csv
+data/*.tsv
+data/*.zip
+data/*.gz
+!data/README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+EOF
