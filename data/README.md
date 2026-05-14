@@ -1,4 +1,3 @@
-<< 'EOF'
 # Dataset Information
 
 ## MovieLens Dataset
@@ -14,4 +13,3 @@ This folder requires the MovieLens dataset.
 ### Note:
 The dataset is not included in GitHub due to size. 
 When running locally, please download it using the instructions above.
-EOF

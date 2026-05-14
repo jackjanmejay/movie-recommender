@@ -1,13 +1,8 @@
-<< 'EOF'
-# 🎬 Intelligent Movie/TV/Documentary Recommender System
+# 🎬 Movie/TV/Documentary Recommender System
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.3-red.svg)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-## 📌 Live Demo
-
-🔗 **Live Demo**: [https://movie-recommender.onrender.com](https://movie-recommender.onrender.com)
 
 ## 📌 Overview
 
@@ -32,7 +27,7 @@ An **intelligent recommendation system** that suggests Movies, TV Series, and Do
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/movie-recommender.git
+git clone https://github.com/jackjanmejay/movie-recommender.git
 cd movie-recommender
 
 # Create virtual environment
